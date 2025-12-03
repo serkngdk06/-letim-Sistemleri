@@ -1,3 +1,5 @@
+BU ÖDEV İŞLETİM SİSTEMLERİ DERSİ İÇİN (DR.Ögr. Üyesi HASAN SERDAR)  HAZIRLANMIŞTIR 
+
 # 🤖 Android OS Simülatörü
 
 İşletim Sistemleri dersi için geliştirilmiş **interaktif Android simülatör** uygulaması.
@@ -209,4 +211,5 @@ Eğitim amaçlı - Serbestçe kullanılabilir
 ---
 
 **İşletim Sistemleri Dersi Projesi** | 2025 | React Native
+
 
